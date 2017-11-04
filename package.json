@@ -1,8 +1,10 @@
 {
   "name": "rsvp-app",
+  "homepage": "https://macyngan.github.io/rsvp-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^1.0.0",
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
     "react-bootstrap": "^0.31.5",
